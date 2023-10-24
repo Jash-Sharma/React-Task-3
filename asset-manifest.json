@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jash-Sharma/React-Task-3/static/css/main.7d7e5ce4.css",
+    "main.js": "/Jash-Sharma/React-Task-3/static/js/main.6c937e09.js",
+    "static/js/787.6018e935.chunk.js": "/Jash-Sharma/React-Task-3/static/js/787.6018e935.chunk.js",
+    "index.html": "/Jash-Sharma/React-Task-3/index.html",
+    "main.7d7e5ce4.css.map": "/Jash-Sharma/React-Task-3/static/css/main.7d7e5ce4.css.map",
+    "main.6c937e09.js.map": "/Jash-Sharma/React-Task-3/static/js/main.6c937e09.js.map",
+    "787.6018e935.chunk.js.map": "/Jash-Sharma/React-Task-3/static/js/787.6018e935.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d7e5ce4.css",
+    "static/js/main.6c937e09.js"
+  ]
+}

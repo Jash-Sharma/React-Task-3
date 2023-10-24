@@ -1,0 +1,33 @@
+.App {
+  width: 80%;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  transition: background-color 0.7s ease;
+  border-radius: 50px;
+}
+
+.color-palette {
+  display: flex;
+  margin: 20px;
+  flex-wrap: wrap;
+  
+}
+
+.color-box {
+  width: 55px;
+  height: 55px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.back{
+  height: 100vh;
+  padding-top: 5px;
+  background-color: rgb(170, 112, 225);
+}
